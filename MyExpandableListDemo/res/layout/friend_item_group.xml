@@ -33,7 +33,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentRight="true"
         android:layout_marginRight="10dp"
-        android:gravity="center_vertical"
+        android:gravity="center_vertical|right"
         android:layout_centerVertical="true"
         android:text="2/2000"
         android:textColor="#8a8a8a"
